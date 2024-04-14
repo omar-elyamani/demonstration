@@ -1,1 +1,10 @@
-fuck you omar
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Test 1</title>
+</head>
+<body>
+  <h1>Welcome to My Web Page</h1>
+  <p>This is a sample HTML file.</p>
+</body>
+</html>
